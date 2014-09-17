@@ -1,0 +1,4 @@
+D:\Programming\FreeLancer\AcsimetCoffe\AcsimetCoffeWebSite\AcsimetCoffeWebSite\bin\AcsimetCoffeWebSite.dll
+D:\Programming\FreeLancer\AcsimetCoffe\AcsimetCoffeWebSite\AcsimetCoffeWebSite\bin\AcsimetCoffeWebSite.pdb
+D:\Programming\FreeLancer\AcsimetCoffe\AcsimetCoffeWebSite\AcsimetCoffeWebSite\obj\Debug\AcsimetCoffeWebSite.dll
+D:\Programming\FreeLancer\AcsimetCoffe\AcsimetCoffeWebSite\AcsimetCoffeWebSite\obj\Debug\AcsimetCoffeWebSite.pdb
